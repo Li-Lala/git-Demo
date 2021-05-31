@@ -6,6 +6,5 @@ hello Git
 hello Git
 hello Git
 hello Git
-222222222
-2222222
 master test
+hot-fix test
